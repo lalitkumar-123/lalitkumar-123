@@ -21,7 +21,7 @@
 
 - 📚 &nbsp; Learning new things, self driven, hard working and friendly.😃
 
-- ✍️ &nbsp; Pursuing UI/UX Design as hobbies/side hustles.
+<!-- - ✍️ &nbsp; Pursuing UI/UX Design as hobbies/side hustles. -->
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
