@@ -1,61 +1,76 @@
-Hi there 👋
+### Hi there 👋
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=SubhayanDas08.SubhayanDas08&color=00cf00)
 
-I am Lalit
-
-I am a Frontend Developer and a Competitve Programmer.\
-I love to code and am keen to do research on upcoming new technologies.\
-My other interests aside from Frontend are Backend Development and Flutter.
+<h2>I'm Lalit.</h2>
+<h4>I am a Frontend Developer and a Competitve Programmer.</h4> <br/> I love to code and am keen to do research on upcoming new technologies. <br/> My other interests aside from Frontend are Backend Development and Flutter.</h4>
 
 [![Lalit's github activity graph](https://activity-graph.herokuapp.com/graph?username=lalitkumar-123&theme=react-dark&area=true&hide_border=true)](https://github.com/lalitkumar-123/github-readme-activity-graph)
 
 
-👨🏻‍💻  About Me
+<img align="right" alt="GIF" src="https://github.com/lalitkumar-123/WebDev_Basics/blob/main/Motion.gif" width="350" height="240" />
 
-- 🤔   Exploring new technologies and working on mern stack based projects and research work.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓   Studying Computer Science Engineering at Kalinga Institute of Industrial Technology.
+- 🤔 &nbsp; Exploring new technologies and working on mern stack based projects and research work.
 
-- 💼   Working as a Web Developer and Competitive Programmer at GFG Community KIIT.     
+- 🎓 &nbsp; Studying Computer Science Engineering at Kalinga Institute of Industrial Technology.
 
-- 🌱   I’m currently learning Nextjs and System Design.
+- 💼 &nbsp; Working as a Web Developer and Competitive Programmer at GFG Community KIIT.     
 
-- 📚   Learning new things, self driven, hard working and friendly.😃
+- 🌱 &nbsp; I’m currently learning Nextjs and System Design.
 
-- ✍️   Pursuing UI/UX Design as hobbies/side hustles.
+- 📚 &nbsp; Learning new things, self driven, hard working and friendly.😃
 
-<!--
-**lalitkumar-123/lalitkumar-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✍️ &nbsp; Pursuing UI/UX Design as hobbies/side hustles.
 
-Here are some ideas to get you started:
-![](https://user-images.githubusercontent.com/68746773/126122068-6cbba326-8393-46e4-9f69-872dec3a7732.gif)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express.js)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+  ![Peer.js](https://img.shields.io/badge/-Peer.js-333333?style=flat&logo=peer.js)
+  ![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=flat&logo=socket.io)
+- 🛢 &nbsp;
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+
+<a href="https://github.com/lalitkumar-123">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lalitkumar-123&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkumar-123&theme=buefy" />
+</a>
+
+<!-- 
+![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalitkumar-123&show_icons=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkumar-123)](https://github.com/lalitkumar-123/github-readme-stats) 
 -->
 
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-🛠  Tech Stack
-
-- 💻   Python Java C++ C
-
-- 🌐   HTML5 CSS JavaScript Bootstrap Node.js React Express.js Next.js Flutter
-
-- 🛢    SQL MongoDB
-
-- ⚙️   Git GitHub
-
-- 🔧   Visual Studio Code
-
-
-![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalitkumar-123&show_icons=true&theme=default)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkumar-123)](https://github.com/lalitkumar-123/github-readme-stats)
-
-
+<p align="center">
+<code>
+<a href="https://github.com/lalitkumar-123" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/a-lalit-2214031b0/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40"/></a>
+<a href="https://www.instagram.com/lalitkumar_123_/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+</code>
+</p>
 
 
