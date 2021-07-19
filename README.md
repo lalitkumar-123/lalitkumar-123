@@ -39,8 +39,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
-  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express.js)
-  <br/>
+  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express.js) <br/>
   &nbsp; &nbsp; &nbsp; &nbsp;
   ![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=flat&logo=socket.io)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=563D7C)
@@ -61,13 +60,8 @@
 
 <a href="https://github.com/lalitkumar-123">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lalitkumar-123&theme=buefy&show_icons=true" /> <br/> <br/> 
-  <img height="180em" width="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkumar-123&theme=buefy" />
+  <img height="180em" width="350rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkumar-123&theme=buefy" />
 </a>
-
-<!-- 
-![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalitkumar-123&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkumar-123)](https://github.com/lalitkumar-123/github-readme-stats) 
--->
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
