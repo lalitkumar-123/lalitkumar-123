@@ -4,9 +4,9 @@ I am Lalit
 
 👨🏻‍💻  About Me
 
-I am a Frontend Developer and a Competitve Programmer.
-I love to code and am keen to do research on upcoming new technologies.
-My other interests aside from Frontend are Backend Development and Flutter.
+I am a Frontend Developer and a Competitve Programmer.\
+I love to code and am keen to do research on upcoming new technologies.\
+My other interests aside from Frontend are Backend Development and Flutter.\
 
 🤔   Exploring new technologies and working on mern stack based projects and research work.
 🎓   Studying Computer Science Engineering at Kalinga Institute of Industrial Technology.
