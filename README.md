@@ -61,7 +61,7 @@
 <br/>
 
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalitkumar-123&currStreakNum=2FD3EB&fire=pink&sideLabels=F00)](https://git.io/streak-stats) 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalitkumar-123&currStreakNum=2FD3EB&fire=orange&sideLabels=F00)](https://git.io/streak-stats) 
 
 <br/>
 
