@@ -2,7 +2,7 @@ Hi there 👋
 
 I am Lalit
 
-[![Lalit's github activity graph](https://activity-graph.herokuapp.com/graph?username=lalitkumar-123&theme=react-dark)](https://github.com/lalitkumar-123/github-readme-activity-graph)
+[![Lalit's github activity graph](https://activity-graph.herokuapp.com/graph?username=lalitkumar-123&theme=react-dark&area=true&hide_border=true)](https://github.com/lalitkumar-123/github-readme-activity-graph)
 
 
 👨🏻‍💻  About Me
