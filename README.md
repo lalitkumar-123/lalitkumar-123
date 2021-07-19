@@ -52,6 +52,7 @@
 - 🛢 &nbsp;
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) 
+  ![Firebase](https://img.shields.io/badge/firebase-333333?style=flat&logo=firebase&logoColor=yellow)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
