@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 🔧   Visual Studio Code
 
 
-![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalitkumar-123&show_icons=true&theme=default)
+![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalitkumar-123&show_icons=true&theme=default)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkumar-123)](https://github.com/lalitkumar-123/github-readme-stats)
 
 
