@@ -63,7 +63,8 @@
 
 <h3> &nbsp; Github Stats </h3>
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalitkumar-123&fire=orange&sideLabels=F00)](https://git.io/streak-stats) 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalitkumar-123&fire=orange&sideLabels=F00)](https://git.io/streak-stats)
+ 
  <br/>
  
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lalitkumar-123&theme=buefy&show_icons=true" /> 
