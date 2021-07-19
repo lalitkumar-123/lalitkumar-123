@@ -1,5 +1,5 @@
 ### Hi there 👋
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=SubhayanDas08.SubhayanDas08&color=00cf00)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=lalitkumar-123.lalitkumar-123&color=00cf00)
 
 <h2>I'm Lalit.</h2>
 <h4>I am a Frontend Developer and a Competitve Programmer.</h4> <br/> I love to code and am keen to do research on upcoming new technologies. <br/> My other interests aside from Frontend are Backend Development and Flutter.</h4>
