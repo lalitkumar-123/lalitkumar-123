@@ -11,15 +11,15 @@ I am a Frontend Developer and a Competitve Programmer.\
 I love to code and am keen to do research on upcoming new technologies.\
 My other interests aside from Frontend are Backend Development and Flutter.
 
-- 🤔   Exploring new technologies and working on mern stack based projects and research work.\
+- 🤔   Exploring new technologies and working on mern stack based projects and research work.
 
-- 🎓   Studying Computer Science Engineering at Kalinga Institute of Industrial Technology.\
+- 🎓   Studying Computer Science Engineering at Kalinga Institute of Industrial Technology.
 
 - 💼   Working as a Web Developer and Competitive Programmer at GFG Community KIIT.     
 
-- 🌱   I’m currently learning Nextjs and System Design.\
+- 🌱   I’m currently learning Nextjs and System Design.
 
-- 📚   Learning new things, self driven, hard working and friendly.😃\
+- 📚   Learning new things, self driven, hard working and friendly.😃
 
 - ✍️   Pursuing UI/UX Design as hobbies/side hustles.
 
