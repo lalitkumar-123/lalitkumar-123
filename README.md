@@ -11,12 +11,17 @@ I am a Frontend Developer and a Competitve Programmer.\
 I love to code and am keen to do research on upcoming new technologies.\
 My other interests aside from Frontend are Backend Development and Flutter.
 
-🤔   Exploring new technologies and working on mern stack based projects and research work.\
-🎓   Studying Computer Science Engineering at Kalinga Institute of Industrial Technology.\
-💼   Working as a Web Developer and Competitive Programmer at GFG Community KIIT.                            
-🌱   I’m currently learning Nextjs and System Design.\
-📚   Learning new things, self driven, hard working and friendly.😃\
-✍️   Pursuing UI/UX Design as hobbies/side hustles.
+- 🤔   Exploring new technologies and working on mern stack based projects and research work.\
+
+- 🎓   Studying Computer Science Engineering at Kalinga Institute of Industrial Technology.\
+
+- 💼   Working as a Web Developer and Competitive Programmer at GFG Community KIIT.     
+
+- 🌱   I’m currently learning Nextjs and System Design.\
+
+- 📚   Learning new things, self driven, hard working and friendly.😃\
+
+- ✍️   Pursuing UI/UX Design as hobbies/side hustles.
 
 <!--
 **lalitkumar-123/lalitkumar-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,18 +42,19 @@ Here are some ideas to get you started:
 
 🛠  Tech Stack
 
-💻   Python Java C++ C
+- 💻   Python Java C++ C
 
-🌐   HTML5 CSS JavaScript Bootstrap Node.js React Express.js Next.js Flutter
+- 🌐   HTML5 CSS JavaScript Bootstrap Node.js React Express.js Next.js Flutter
 
-🛢    SQL MongoDB
+- 🛢    SQL MongoDB
 
-⚙️   Git GitHub
+- ⚙️   Git GitHub
 
-🔧   Visual Studio Code
+- 🔧   Visual Studio Code
 
 
 ![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalitkumar-123&show_icons=true&theme=default)\
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkumar-123)](https://github.com/lalitkumar-123/github-readme-stats)
 
 
