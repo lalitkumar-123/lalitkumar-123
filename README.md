@@ -60,6 +60,11 @@
 
 <br/>
 
+
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalitkumar-123&currStreakNum=2FD3EB&fire=pink&sideLabels=F00)](https://git.io/streak-stats) 
+
+<br/>
+
 <a href="https://github.com/lalitkumar-123">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lalitkumar-123&theme=buefy&show_icons=true" /> 
 </a>
