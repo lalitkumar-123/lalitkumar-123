@@ -39,9 +39,9 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express.js)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=563D7C)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-  ![Peer.js](https://img.shields.io/badge/-Peer.js-333333?style=flat&logo=peer.js)
+<!--   ![Peer.js](https://img.shields.io/badge/-Peer.js-333333?style=flat&logo=peer.js) -->
   ![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=flat&logo=socket.io)
 - 🛢 &nbsp;
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
@@ -54,7 +54,7 @@
 
 
 <a href="https://github.com/lalitkumar-123">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lalitkumar-123&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lalitkumar-123&theme=buefy&show_icons=true" /> <br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkumar-123&theme=buefy" />
 </a>
 
