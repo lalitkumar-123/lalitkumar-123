@@ -47,10 +47,13 @@
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=00599C)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js) 
   
-  <!-- (https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express.js) -->
+  <!-- (https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express.js)
+       (https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+        (https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+  -->
   
 - 🛢 &nbsp;
-  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+- ![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) 
   ![Firebase](https://img.shields.io/badge/firebase-333333?style=flat&logo=firebase&logoColor=yellow)
   
