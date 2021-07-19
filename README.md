@@ -28,7 +28,6 @@ My other interests aside from Frontend are Backend Development and Flutter.
 
 Here are some ideas to get you started:
 ![](https://user-images.githubusercontent.com/68746773/126122068-6cbba326-8393-46e4-9f69-872dec3a7732.gif)
-&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -53,7 +52,7 @@ Here are some ideas to get you started:
 - 🔧   Visual Studio Code
 
 
-![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalitkumar-123&show_icons=true&theme=default)\
+![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalitkumar-123&show_icons=true&theme=default)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkumar-123)](https://github.com/lalitkumar-123/github-readme-stats)
 
