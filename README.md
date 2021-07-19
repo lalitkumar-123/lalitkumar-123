@@ -53,7 +53,7 @@
   -->
   
 - 🛢 &nbsp;
-- ![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) 
   ![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat&logo=firebase&logoColor=yellow)
   
