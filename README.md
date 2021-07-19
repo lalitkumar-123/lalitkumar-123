@@ -44,7 +44,7 @@
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express.js) <br/>
   &nbsp; &nbsp; &nbsp; &nbsp;
   ![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=flat&logo=socket.io)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=563D7C)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=00599C)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js) 
   
 - 🛢 &nbsp;
