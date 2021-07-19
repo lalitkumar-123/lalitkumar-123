@@ -61,7 +61,7 @@
 
 <a href="https://github.com/lalitkumar-123">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lalitkumar-123&theme=buefy&show_icons=true" /> <br/> <br/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkumar-123&theme=buefy" />
+  <img height="180em" width="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkumar-123&theme=buefy" />
 </a>
 
 <!-- 
