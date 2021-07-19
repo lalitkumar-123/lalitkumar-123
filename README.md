@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=lalitkumar-123.lalitkumar-123&color=00cf00)
 
-<h2>I'm Lalit.</h2>
+<h2>I am Lalit.</h2>
 <h4>I am a Frontend Developer and a Competitve Programmer.<br/> I love to code and am keen to do research on upcoming new technologies. <br/> My other interests aside from Frontend and Competitive Programming are Backend Development and Flutter.</h4>
 
 [![Lalit's github activity graph](https://activity-graph.herokuapp.com/graph?username=lalitkumar-123&theme=react-dark&area=true&hide_border=true)](https://github.com/lalitkumar-123/github-readme-activity-graph)
@@ -63,15 +63,18 @@
 
 <h3> &nbsp; Github Stats </h3>
 
- - [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalitkumar-123&fire=orange&sideLabels=F00)](https://git.io/streak-stats) 
-
-- <a href="https://github.com/lalitkumar-123">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lalitkumar-123&theme=buefy&show_icons=true" /> 
-  </a>
-
-- <a href="https://github.com/lalitkumar-123"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkumar-123&theme=buefy&layout=compact" />
-  </a>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalitkumar-123&fire=orange&sideLabels=F00)](https://git.io/streak-stats) 
+ <br/>
+ 
+ <a href="https://github.com/lalitkumar-123">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lalitkumar-123&theme=buefy&show_icons=true" /> 
+ </a>
+ 
+ <br/>
+ 
+ <a href="https://github.com/lalitkumar-123"> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkumar-123&theme=buefy&layout=compact" />
+ </a>
   
   <br/>
 
