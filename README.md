@@ -2,14 +2,14 @@ Hi there 👋
 
 I am Lalit
 
+I am a Frontend Developer and a Competitve Programmer.\
+I love to code and am keen to do research on upcoming new technologies.\
+My other interests aside from Frontend are Backend Development and Flutter.
+
 [![Lalit's github activity graph](https://activity-graph.herokuapp.com/graph?username=lalitkumar-123&theme=react-dark&area=true&hide_border=true)](https://github.com/lalitkumar-123/github-readme-activity-graph)
 
 
 👨🏻‍💻  About Me
-
-I am a Frontend Developer and a Competitve Programmer.\
-I love to code and am keen to do research on upcoming new technologies.\
-My other interests aside from Frontend are Backend Development and Flutter.
 
 - 🤔   Exploring new technologies and working on mern stack based projects and research work.
 
