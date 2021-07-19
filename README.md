@@ -7,7 +7,7 @@
 [![Lalit's github activity graph](https://activity-graph.herokuapp.com/graph?username=lalitkumar-123&theme=react-dark&area=true&hide_border=true)](https://github.com/lalitkumar-123/github-readme-activity-graph)
 
 
-<img align="right" alt="GIF" src="https://github.com/lalitkumar-123/WebDev_Basics/blob/main/Motion.gif" width="350" height="240" />
+<img align="right" alt="GIF" src="https://github.com/lalitkumar-123/lalitkumar-123/blob/main/pic.gif" width="350" height="240" />
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
