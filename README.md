@@ -66,17 +66,13 @@
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalitkumar-123&fire=orange&sideLabels=F00)](https://git.io/streak-stats) 
  <br/>
  
- <a href="https://github.com/lalitkumar-123">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lalitkumar-123&theme=buefy&show_icons=true" /> 
- </a>
  
  <br/>
- 
- <a href="https://github.com/lalitkumar-123"> 
+
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkumar-123&theme=buefy&layout=compact" />
- </a>
   
-  <br/>
+ <br/>
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
