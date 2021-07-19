@@ -30,7 +30,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C) <br/>
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -43,14 +43,13 @@
   &nbsp; &nbsp; &nbsp; &nbsp;
   ![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=flat&logo=socket.io)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=563D7C)
-  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-<!--   ![Peer.js](https://img.shields.io/badge/-Peer.js-333333?style=flat&logo=peer.js) -->
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js) <br/>
 - 🛢 &nbsp;
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) <br/>
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) <br/>
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
