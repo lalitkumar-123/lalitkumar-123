@@ -11,9 +11,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and working on mern stack based projects and research work.
+- 🤔 &nbsp; Exploring new technologies and working on Mern stack based projects and research work.
 
-- 🎓 &nbsp; Studying Computer Science Engineering at Kalinga Institute of Industrial Technology.
+- 🎓 &nbsp; Studying Information Technology at Kalinga Institute of Industrial Technology.
 
 - 💼 &nbsp; Working as a Web Developer and Competitive Programmer at GFG Community KIIT.     
 
