@@ -34,7 +34,7 @@
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C) 
   
-- 🌐 &nbsp;
+- 🌐 &nbsp; 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -47,15 +47,15 @@
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=00599C)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js) 
   
-  <!-- (https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express.js)
-       (https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-        (https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-  -->
   
 - 🛢 &nbsp;
   ![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) 
   ![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat&logo=firebase&logoColor=yellow)
+  
+- ☁ &nbsp;
+  ![Netlify](https://img.shields.io/badge/Netlify-333333?style=flat&logo=netlify&logoColor=white)
+  ![Heroku](https://img.shields.io/badge/Heroku-333333?style=flat&logo=heroku&logoColor=white)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
