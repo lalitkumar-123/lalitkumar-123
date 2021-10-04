@@ -4,8 +4,8 @@
 <h2>I am Lalit.</h2>
 <h4>I am a Frontend Developer and a Competitve Programmer.<br/> I love to code and am keen to do research on upcoming new technologies. <br/> My other interests aside from Frontend and Competitive Programming are Backend Development and Flutter.</h4>
 
-<!-- 
-[![Lalit's github activity graph](https://activity-graph.herokuapp.com/graph?username=lalitkumar-123&theme=react-dark&area=true&hide_border=true)](https://github.com/lalitkumar-123/github-readme-activity-graph) -->
+
+[![Lalit's github activity graph](https://activity-graph.herokuapp.com/graph?username=lalitkumar-123&theme=react-dark&area=true&hide_border=true)](https://github.com/lalitkumar-123/github-readme-activity-graph)
 
 
 
