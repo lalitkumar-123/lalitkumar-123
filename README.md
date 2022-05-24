@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=lalitkumar-123.lalitkumar-123&color=00cf00)
 
-<h2>I am Lalit.</h2>
+<!-- <h2>I am Lalit.</h2> -->
 <h4>I am a FullStack Developer and a Competitve Programmer.<br/> I love to code and am keen to do research on upcoming new technologies. <br/> My other interests aside from Frontend and Competitive Programming are Backend Development and Flutter.</h4>
 
 <!-- 
