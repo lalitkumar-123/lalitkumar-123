@@ -67,8 +67,16 @@
 
 <br/>
 
+<div align="center">
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lalitkumar-123&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lalitkumar-123&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lalitkumar-123&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lalitkumar-123&theme=github_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lalitkumar-123&theme=github_dark" />
+</div>
+<br>
 
-<h3> &nbsp; Github Stats </h3>
+<!-- <h3> &nbsp; Github Stats </h3>
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalitkumar-123&fire=orange&sideLabels=F00)](https://git.io/streak-stats)
  
@@ -80,7 +88,7 @@
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkumar-123&theme=buefy&layout=compact" />
   
- <br/>
+ <br/> -->
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
