@@ -7,9 +7,11 @@
 <!-- 
 [![Lalit's github activity graph](https://activity-graph.herokuapp.com/graph?username=lalitkumar-123&theme=react-dark&area=true&hide_border=true)](https://github.com/lalitkumar-123/github-readme-activity-graph) -->
 
+-----------------------------------------------------------
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<img align="right" alt="GIF" src="https://github.com/lalitkumar-123/lalitkumar-123/blob/main/pic.gif" width="350" height="240" />
+<!-- <img align="right" alt="GIF" src="https://github.com/lalitkumar-123/lalitkumar-123/blob/main/pic.gif" width="350" height="240" /> -->
 
 - 🤔 &nbsp; Exploring new technologies and working on Mern stack based projects and research work.
 
@@ -21,8 +23,7 @@
 
 - 📚 &nbsp; Learning new things, self driven, hard working and friendly.😃
 
-<!-- - ✍️ &nbsp; Pursuing UI/UX Design as hobbies/side hustles. -->
-
+-----------------------------------------------------------
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -64,6 +65,8 @@
 
 <br/>
 
+-----------------------------------------------------------
+
 <h3> &nbsp; Github Stats </h3>
 <div align="center">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lalitkumar-123&theme=github_dark" />
@@ -73,6 +76,8 @@
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lalitkumar-123&theme=github_dark" />
 </div>
 <br>
+
+-----------------------------------------------------------
 
 <!-- <h3> &nbsp; Github Stats </h3>
 
@@ -88,6 +93,7 @@
   
  <br/> -->
 
+-----------------------------------------------------------
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
