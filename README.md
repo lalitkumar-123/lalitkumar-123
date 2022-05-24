@@ -12,7 +12,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<img align="right" alt="GIF" src="https://github.com/lalitkumar-123/lalitkumar-123/blob/main/pic.gif" width="350" height="240" />
+<img align="center" alt="GIF" src="https://github.com/lalitkumar-123/lalitkumar-123/blob/main/pic.gif" width="350" height="240" />
 
 - 🤔 &nbsp; Exploring new technologies and working on Mern stack based projects and research work.
 
