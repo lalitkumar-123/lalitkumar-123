@@ -2,17 +2,14 @@
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=lalitkumar-123.lalitkumar-123&color=00cf00)
 
 <h2>I am Lalit.</h2>
-<h4>I am a Frontend Developer and a Competitve Programmer.<br/> I love to code and am keen to do research on upcoming new technologies. <br/> My other interests aside from Frontend and Competitive Programming are Backend Development and Flutter.</h4>
+<h4>I am a FullStack Developer and a Competitve Programmer.<br/> I love to code and am keen to do research on upcoming new technologies. <br/> My other interests aside from Frontend and Competitive Programming are Backend Development and Flutter.</h4>
 
 <!-- 
 [![Lalit's github activity graph](https://activity-graph.herokuapp.com/graph?username=lalitkumar-123&theme=react-dark&area=true&hide_border=true)](https://github.com/lalitkumar-123/github-readme-activity-graph) -->
 
-
-
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<img align="center" alt="GIF" src="https://github.com/lalitkumar-123/lalitkumar-123/blob/main/pic.gif" width="350" height="240" />
+<img align="right" alt="GIF" src="https://github.com/lalitkumar-123/lalitkumar-123/blob/main/pic.gif" width="350" height="240" />
 
 - 🤔 &nbsp; Exploring new technologies and working on Mern stack based projects and research work.
 
@@ -67,6 +64,7 @@
 
 <br/>
 
+<h3> &nbsp; Github Stats </h3>
 <div align="center">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lalitkumar-123&theme=github_dark" />
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lalitkumar-123&theme=github_dark"  />
