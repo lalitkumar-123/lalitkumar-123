@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=lalitkumar-123.lalitkumar-123&color=00cf00)
 
 <h3>I am Lalit.</h3>
-<h4>I am a FullStack Developer and a Competitve Programmer.<br/> I love to code and am keen to do research on upcoming new technologies. <br/> My other interests are Backend Development and Flutter.</h4>
+<h4>I am a FullStack Developer and a Competitive Programmer.<br/> I love to code and am keen to do research on upcoming new technologies. <br/> My other interests are Backend Development and Flutter.</h4>
 
 <!-- 
 [![Lalit's github activity graph](https://activity-graph.herokuapp.com/graph?username=lalitkumar-123&theme=react-dark&area=true&hide_border=true)](https://github.com/lalitkumar-123/github-readme-activity-graph) -->
