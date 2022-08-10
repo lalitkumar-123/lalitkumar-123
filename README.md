@@ -17,7 +17,7 @@
 
 - 🎓 &nbsp; Studying Information Technology at Kalinga Institute of Industrial Technology.
 
-- 💼 &nbsp; Working as a Web Developer and Competitive Programmer at GFG Community KIIT.     
+- 💼 &nbsp; Working as a Software Developer In Test at Harness.     
 
 - 🌱 &nbsp; I’m currently learning Nextjs and System Design.
 
