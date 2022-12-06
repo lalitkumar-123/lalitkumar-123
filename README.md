@@ -11,8 +11,6 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<!-- <img align="right" alt="GIF" src="https://github.com/lalitkumar-123/lalitkumar-123/blob/main/pic.gif" width="350" height="240" /> -->
-
 - 🤔 &nbsp; Exploring new technologies and working on Mern stack based projects and research work.
 
 - 🎓 &nbsp; Studying Information Technology at Kalinga Institute of Industrial Technology.
@@ -77,20 +75,6 @@
 <br>
 
 -----------------------------------------------------------
-
-<!-- <h3> &nbsp; Github Stats </h3>
-
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalitkumar-123&fire=orange&sideLabels=F00)](https://git.io/streak-stats)
- 
- <br/>
- 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lalitkumar-123&theme=buefy&show_icons=true" /> 
- 
- <br/>
-
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkumar-123&theme=buefy&layout=compact" />
-  
- <br/> -->
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
