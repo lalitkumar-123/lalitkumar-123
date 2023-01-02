@@ -75,8 +75,8 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p>
-<ul align="center">
+<p align="center">
+<ul>
 <li> <a href="https://github.com/lalitkumar-123" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a> </li>
 <li> <a href="https://www.linkedin.com/in/a-lalit-2214031b0/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40"/></a> </li>
 <li> <a href="https://www.instagram.com/lalitkumar_123_/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a> </li>
