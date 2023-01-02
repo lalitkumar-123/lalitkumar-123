@@ -5,7 +5,7 @@
 <h4>I am a FullStack Developer and a Competitive Programmer.<br/> I love to code and am keen to do research on upcoming new technologies.
 
 
-<!-- [![Lalit's github activity graph](https://activity-graph.herokuapp.com/graph?username=lalitkumar-123&theme=react-dark&area=true&hide_border=true)](https://github.com/lalitkumar-123/github-readme-activity-graph) -->
+[![Lalit's github activity graph](https://activity-graph.herokuapp.com/graph?username=lalitkumar-123&theme=react-dark&area=true&hide_border=true)](https://github.com/lalitkumar-123/github-readme-activity-graph)
 
 -----------------------------------------------------------
 
