@@ -12,7 +12,7 @@
 
 - 🎓 &nbsp; Studying Information Technology at Kalinga Institute of Industrial Technology.
 
-- 💼 &nbsp; Working as a Software Developer In Test at Harness.     
+- 💼 &nbsp; Working as a Software Developer at Harness.     
 
 - 🌱 &nbsp; I’m currently learning Nextjs and System Design.
 
